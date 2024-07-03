@@ -1,0 +1,23 @@
+.items-container {
+    background-color: lightblue;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: left;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.delete-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 40px;
+    
+}
+
+.items-heading {
+    color: black;
+    font-weight: bold;
+    font-family: "roboto";
+}
